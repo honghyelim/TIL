@@ -14,3 +14,6 @@
 
 5) 아파트매매 실거래 데이터 수집  
 [코드 보러가기](https://github.com/honghyelim/TIL/blob/main/publicdatareader.py)
+
+6) 간단한 데이터 분석(백화점 구매 고객 데이터)  
+[코드 보러가기](https://github.com/honghyelim/TIL/blob/main/des_data.py)
