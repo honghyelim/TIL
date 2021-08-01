@@ -11,3 +11,6 @@
 
 4) 다음 부동산 웹 스크래핑하기  
 [코드 보러가기](https://github.com/honghyelim/TIL/blob/main/scraping_test.py)
+
+5) 아파트매매 실거래 데이터 수집  
+[코드 보러가기](https://github.com/honghyelim/TIL/blob/main/publicdatareader.py)
